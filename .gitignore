@@ -4,4 +4,6 @@
 # But not these files...
 !.gitignore
 !*.lib
+!*.kicad_mod
+!*.pretty
 # etc..
